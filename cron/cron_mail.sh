@@ -1,6 +1,5 @@
 #Author: Mario Enriquez
-#A00909441
-#BCIT COMP 7006
+#Shellscript to automate mail sending
 
 file_exists(){
 	local f="$1"
